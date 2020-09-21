@@ -2,6 +2,11 @@
 .vscode/
 .idea/
 /ML.xmind
+/Jupyter Markdown.png
+/ML.xmind
+/Problem-set-0.ipynb
+/gradient descent.ipynb
+/images/
 
 # Vagrant
 .vagrant/
